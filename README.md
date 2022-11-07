@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @splanix73
+- 👋 Hi, I’m @splanix73 (Almaz Aymetdinov Anvarovich)
 - 👀 I’m interested in Python, HTML coding
 - 🌱 I’m currently learning at "the College of Economics and Computer Science"
 - 💞️ I’m looking to collaborate on (-)
